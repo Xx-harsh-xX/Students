@@ -1,2 +1,2 @@
 # Students
-Primary Key searching
+Primary Key searching,Deleting
